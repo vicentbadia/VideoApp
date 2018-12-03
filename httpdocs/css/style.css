@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800&subset=latin-ext');
+
+#video-list .panel-body {
+	padding-left: 0px;
+}
+
+.video-image-mask {
+	width: 200px;
+	height: 150px;
+	overflow: hidden;
+    /*la parte de la imagen que salga de la mascara se ocultará*/
+}
+
+.video-image-mask .video-image {
+	width: 100%;
+}
+
+.data {
+    padding-left: 40px;
+}
+
+.nombreApp {
+	font-family: 'Dosis', sans-serif;
+	font-size: 1.9rem;
+	color: #3c9c97;
+}
+
+#titulo-eventos, #titulo2-eventos, #titulo-formEventos {
+	background-color: #3c9c97;
+	color: white;
+	padding-left: 30px;
+}
+
+#titulo2-eventos {
+	background-color: #6cccc7;
+}
+
+#titulo-eventos h3, #titulo2-eventos h3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#body-eventos, #body-formEventos {
+	padding: 30px;
+}
+
+#login .btn-primary, #register .btn-primary, #email .btn-primary, #reset .btn-primary {
+	background-color: #3c9c97;
+}
+
+#login a.btn-link {
+	color: #333;
+}
+
+#login a.btn-link:hover {
+	color: #3c9c97;
+	text-decoration: underline;
+}
+
+.btnBorrar {
+	margin-left: 40px;
+	margin-right: 20px;
+}

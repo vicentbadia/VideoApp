@@ -1,0 +1,8 @@
+[user]
+	name = Vicent Iborra Badia
+	email = vicent@vicentbadia.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
